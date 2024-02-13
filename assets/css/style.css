@@ -1,10 +1,21 @@
 /* Asterisk wildcard selector to override default styles added by the browser in use*/
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
 
 /* Header */
 header {
@@ -13,27 +24,59 @@ header {
     padding: 20px 0 0;
     text-align: center;
     position: fixed;
-    width: 100%
-
+    width: 100%;
+    height: 10%;
 }
+
 nav {
     background-color: #045a12;
     color: #fff;
     padding: 10px;
     text-align: center;
 }
+
 nav a {
     color: #fff;
     text-decoration: none;
     padding: 0 10px;
+    cursor: pointer;
 }
+
 nav a:hover {
     text-decoration: underline;
 }
+
 /* Section with history of Nigeria*/
 section {
     background-color: white;
+
+    max-width: 1120px;
+    margin: 0 auto;
+    padding-top: 150px;
 }
+
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+.col {
+    flex-basis: 100%;
+}
+
+@media screen and (min-width: 800px) {
+    .row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .col {
+        flex: 1;
+    }
+}
+
 /* footer*/
 footer {
     background-color: #05813d;
