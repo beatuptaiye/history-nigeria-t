@@ -16,6 +16,20 @@ header {
     width: 100%
 
 }
+nav {
+    background-color: #045a12;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 10px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
 /* Section with history of Nigeria*/
 section {
     background-color: white;
