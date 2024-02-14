@@ -1,17 +1,16 @@
 html {
     scroll-behavior: smooth;
 }
+
 /* Asterisk wildcard selector to override default styles added by the browser in use*/
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap')
-
-
-body {
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap') body {
     font-family: 'Nunito', sans-serif;
     margin: 0;
     padding: 0;
@@ -75,12 +74,36 @@ section {
     flex-basis: 100%;
 }
 
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+    border-radius: 20px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.set1 {
+    padding: 15px;
+    text-align: center;
+}
+
 .summary-cl {
     padding: 30px;
 }
-summary{
+
+summary {
     cursor: pointer;
 }
+
 @media screen and (min-width: 800px) {
     .row {
         display: flex;
