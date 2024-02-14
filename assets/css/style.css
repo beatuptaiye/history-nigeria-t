@@ -109,6 +109,27 @@ summary {
     float: bottom;
     clear: left;
 }
+#eventspostin {
+    border-collapse: collapse;
+    width: 100%;
+}
+#eventspostin td, #eventspostin th {
+    border: 1px solid #eee;
+    padding: 7px;
+}
+
+#eventspostin tr:hover {
+    background-color: #05813d;
+    color: #fff;
+}
+
+#eventspostin th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: justify;
+    background-color: #045a12;
+    color: #fff;
+}
 
 @media screen and (min-width: 800px) {
     .row {
