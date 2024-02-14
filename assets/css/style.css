@@ -67,6 +67,9 @@ section {
     flex-basis: 100%;
 }
 
+summary{
+    cursor: pointer;
+}
 @media screen and (min-width: 800px) {
     .row {
         display: flex;
