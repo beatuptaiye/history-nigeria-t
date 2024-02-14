@@ -105,15 +105,19 @@ div.set1 {
 summary {
     cursor: pointer;
 }
-#independence{
+
+#independence {
     float: bottom;
     clear: left;
 }
+
 #eventspostin {
     border-collapse: collapse;
     width: 100%;
 }
-#eventspostin td, #eventspostin th {
+
+#eventspostin td,
+#eventspostin th {
     border: 1px solid #eee;
     padding: 7px;
 }
