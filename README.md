@@ -14,4 +14,11 @@ This repository contains the HTML and CSS code for a website titled "History of 
 - **Footer:** The footer includes copyright information, asserting the ownership of the content.
 - **Stylish Design:** The use of a clean and stylish design, with a consistent color scheme, enhances the overall aesthetic.
 
+## Dependencies
 
+The website utilizes the following external dependencies:
+
+- **Font Awesome:** Used for icons throughout the website.
+- **Google Maps Embed API:** Integrated for displaying the active map of Nigeria.
+
+## References
