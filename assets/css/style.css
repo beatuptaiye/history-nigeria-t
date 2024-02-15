@@ -28,7 +28,7 @@ header {
     width: 100%;
     height: auto;
 }
-
+/*navigation*/
 nav {
     background-color: #045a12;
     color: #fff;
@@ -55,7 +55,7 @@ section {
     margin: 0 auto;
     padding-top: 30px;
 }
-
+/*introduction*/
 #intro {
     background-color: white;
 
@@ -63,7 +63,7 @@ section {
     margin: 0 auto;
     padding-top: 150px;
 }
-
+/*firstimage responsive*/
 .responsive {
     width: 100%;
     max-width: 400px;
@@ -134,6 +134,20 @@ summary {
     background-color: #045a12;
     color: #fff;
 }
+
+ul {
+    list-style-type: square;
+    padding: 4%;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+ul~p {
+    font-style: italic;
+}
+
 
 @media screen and (min-width: 800px) {
     .row {
