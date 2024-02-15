@@ -28,6 +28,7 @@ header {
     width: 100%;
     height: auto;
 }
+
 /*navigation*/
 nav {
     background-color: #045a12;
@@ -55,6 +56,7 @@ section {
     margin: 0 auto;
     padding-top: 30px;
 }
+
 /*introduction*/
 #intro {
     background-color: white;
@@ -63,6 +65,7 @@ section {
     margin: 0 auto;
     padding-top: 150px;
 }
+
 /*firstimage responsive*/
 .responsive {
     width: 100%;
@@ -148,6 +151,21 @@ ul~p {
     font-style: italic;
 }
 
+/* Youtube Video Ifram css*/
+.iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
 @media screen and (min-width: 800px) {
     .row {
