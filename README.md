@@ -1,8 +1,6 @@
-# My Very first Project with Title History of Nigeria
+# History of Nigeria Website
 
-This is a website that explores the rich and diverse heritage of Nigeria
-It give information on the history of Nigeria. This site targets anyone intrested in finding out the history of Nigeria.
-
+This repository contains the HTML and CSS code for a website titled "History of Nigeria." The website explores the rich and diverse heritage of Nigeria, covering various historical periods such as the Pre-Colonial Era, Colonial Era, Independence, and Recent History.
 
 ## Features
 - Navigation Bar:-  The full responsive navigation bar includes links to the Home, Pre-Colonial section, Colonial Section, Independence and Recent History.
