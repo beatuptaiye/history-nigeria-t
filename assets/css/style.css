@@ -192,3 +192,8 @@ footer {
     width: 100%;
     z-index: 2;
 }
+#map{
+    width: 100%;
+    border: 1px solid black;
+    Margin-bottom: 20px;
+}
