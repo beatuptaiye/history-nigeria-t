@@ -65,18 +65,17 @@ I used the https://validator.w3.org/
 
 ## Deployment ##
   The site was deployed to GitHub pages. The steps to deploy are as follows:
-    In the GitHub repository, navigate to the Settings tab
+    In the GitHub repository, I navigated to the Settings tab
     From the source section drop-down menu, select the Master Branch
     Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+    The live link can be found here -https://beatuptaiye.github.io/history-nigeria-t/
 
+## Credits ##
 
+- I got the video from youtube "Mr History" -https://www.youtube.com/watch?v=ANyZG_W4Uow&list=TLGGSa8WiFSE6NcxNjAyMjAyNA&t=6s
+- I Got the Ifram Map from Google map -https://www.youtube.com/watch?v=ANyZG_W4Uow&list=TLGGSa8WiFSE6NcxNjAyMjAyNA&t=6s
+- I got pictures from google images, shutterstock, criticallegalthinking.com, blogger.com
+- I had help from had help from w3schools, stack overflow and the code institute lessons and ChatGPT and some youtube videos
 
-
-## Dependencies
-
-The website utilizes the following external dependencies:
-
-- **Font Awesome:** Used for icons throughout the website.
-- **Google Maps Embed API:** Integrated for displaying the active map of Nigeria.
-
-## References
+## Aknowledgement ##
+I will like to appreciate my mentor in Code Institute he help and guidiance was supper immence in the short period i had to develop this
