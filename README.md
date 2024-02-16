@@ -47,6 +47,31 @@ In recent decades, Nigeria has experienced both progress and challenges in areas
 - **Footer:** The footer includes copyright information, asserting the ownership of the content.
 - **Stylish Design:** The use of a clean and stylish design, with a consistent color scheme, enhances the overall aesthetic.
 
+## Testing ##
+
+- **HTML validation**
+
+I used the https://validator.w3.org/
+    ### Index file ##
+    ![image](https://github.com/beatuptaiye/history-nigeria-t/assets/64757307/a7794c09-1e68-4431-a493-d816021f6966)
+    ### 404 file
+    ![image](https://github.com/beatuptaiye/history-nigeria-t/assets/64757307/8e480f1e-aace-4a7f-a0eb-7fc3980a3c63)
+
+
+- **CSS Validation**
+  I used the https://jigsaw.w3.org/css-validator/
+    ![image](https://github.com/beatuptaiye/history-nigeria-t/assets/64757307/5571f194-8872-4341-a2cb-33ac7ae7da51)
+
+
+## Deployment ##
+  The site was deployed to GitHub pages. The steps to deploy are as follows:
+    In the GitHub repository, navigate to the Settings tab
+    From the source section drop-down menu, select the Master Branch
+    Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+
+
+
 ## Dependencies
 
 The website utilizes the following external dependencies:
