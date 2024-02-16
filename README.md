@@ -31,12 +31,18 @@ In recent decades, Nigeria has experienced both progress and challenges in areas
 
 ## Features
 - **Responsive Design:** The website is designed to be responsive, ensuring a seamless experience across various devices.
+  ### Desktop screen ###
+    ![Desktop screen](https://github.com/beatuptaiye/history-nigeria-t/assets/64757307/b88c3d0b-0a7c-43ba-8dbf-12e2318f4635)
+
+  ### Tablet/Ipad screen ###
+    ![image](https://github.com/beatuptaiye/history-nigeria-t/assets/64757307/162c6e99-d1e0-4bfd-a090-8c8042252943)
+
+
+  ### Phone screen ###
+    ![image](https://github.com/beatuptaiye/history-nigeria-t/assets/64757307/d4359e23-03f5-4cf9-b1cd-1bd21106085a)
+
+
 - **Navigation:** A user-friendly navigation menu facilitates easy exploration of different historical periods.
-- **Introduction Section:** The site begins with an introduction to Nigeria, complete with a world map and a brief overview.
-- **Pre-Colonial Era Section:** Detailed exploration of Nigeria's pre-colonial history, covering ancient civilizations, trade, religions, and social structures.
-- **Colonial Era Section:** Insights into the impact of British colonial rule, featuring images in a gallery format for a visual representation.
-- **Independence Section:** Highlights the significant events post-independence, presented in a structured table format.
-- **Recent History Section:** Summarizes key developments in Nigeria's political, economic, and social spheres, addressing current challenges and achievements.
 - **Media Integration:** The website includes images, a YouTube video providing a quick history of Nigeria, and an embedded Google map interactive and geographical reference to enhance the learning experience.
 - **Footer:** The footer includes copyright information, asserting the ownership of the content.
 - **Stylish Design:** The use of a clean and stylish design, with a consistent color scheme, enhances the overall aesthetic.
